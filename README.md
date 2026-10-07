@@ -9,7 +9,7 @@
 - **NIM:** H1D024049
 - **Shift Awal:** I
 - **Shift Akhir:** C
-- **Link Video Penjelasan Teknis:** [Tonton video](LINK_VIDEO)
+- **Link Video Penjelasan Teknis:** [Tonton video](https://youtu.be/x06Appd-rbA)
 
 ---
 
@@ -242,7 +242,7 @@ Video menjelaskan implementasi kode, meliputi:
 8. Loading, error handling, dan recomposition.
 9. Demonstrasi singkat aplikasi sebagai bukti implementasi.
 
-**Link video:** [Tonton penjelasan teknis](LINK_VIDEO)
+**Link video:** [Tonton penjelasan teknis](https://youtu.be/x06Appd-rbA)
 
 ---
 
